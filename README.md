@@ -1,5 +1,9 @@
 # sales-analysis-project
 Sales data analysis dashboard created with Google Sheets.
-![Sales Chart](sales-distribution-by-category.png)
+# sales-analysis-project
+Sales data analysis dashboard created with Google Sheets.
+
+![Sales Chart](Sales%20Distribution%20by%20Category.png)
+
 
 
